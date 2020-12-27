@@ -32,6 +32,8 @@ To build it yourself, you could use Visual Studio and follow [Kip Irvine's](http
 
 Please note that my code requires Irvine's [libraries](http://asmirvine.com/gettingStartedVS2017/Irvine.zip).
 
+A screencast of my program's execution can be viewed [here](http://georgethomashill.com/gh/osu/cs271/cs271-converter-screencast.mp4).
+
 Sample output:
 
 ```
