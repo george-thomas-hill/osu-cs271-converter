@@ -1,5 +1,7 @@
 # osu-cs271-converter
 
+[![A screenshot of this program.](https://raw.githubusercontent.com/george-thomas-hill/osu-cs271-converter/main/cs271-converter-screenshot.png "Click to see screencast.")](http://georgethomashill.com/gh/osu/cs271/cs271-converter-screencast.mp4)
+
 CS 271 was Oregon State University's computer architecture and assembly language course.
 
 The assignment was write an assembly language program that would include procedures for converting between strings and integers.
