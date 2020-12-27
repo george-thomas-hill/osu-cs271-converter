@@ -4,7 +4,7 @@
 
 CS 271 was Oregon State University's computer architecture and assembly language course.
 
-The assignment was write an assembly language program that would include procedures for converting between strings and integers.
+The assignment was to write an assembly language program that would include procedures for converting between strings and integers.
 
 The main instructions were as follows:
 
